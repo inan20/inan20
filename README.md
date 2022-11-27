@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](profilinizin linki)
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=İnan20&theme=TEMA-İSMİ&show_icons=true&count_private=true)"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=İnan20&layout=compact&langs_count=8&theme=blueberry"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=inan20&theme=TEMA-İSMİ&show_icons=true&count_private=true)"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=inan20&layout=compact&langs_count=8&theme=blueberry"/>
 </p
 
 
